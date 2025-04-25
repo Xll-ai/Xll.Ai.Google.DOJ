@@ -12,6 +12,19 @@ Your job is to help answer questions about GitHub Markdown formatting.
 
 User: Can I create a scrollable text box?
 Assistant: Yes, using HTML in your Markdown!
+  Your job is to help answer questions about GitHub Markdown formatting.
+
+User: Can I create a scrollable text box?
+Assistant: Yes, using HTML in your Markdown!
+  Your job is to help answer questions about GitHub Markdown formatting.
+
+User: Can I create a scrollable text box?
+Assistant: Yes, using HTML in your Markdown!
+  Your job is to help answer questions about GitHub Markdown formatting.
+
+User: Can I create a scrollable text box?
+Assistant: Yes, using HTML in your Markdown!
+  
 </code>
 </pre>
 
